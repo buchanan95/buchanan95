@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am a beginner in software devlopment and I am excited to embark on this journey. 
 
 <!--
 **buchanan95/buchanan95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
